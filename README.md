@@ -1,3 +1,3 @@
-# git_test2
-github repo2
+# git_test
+github repo for OdinProject
 Hello Odin!
